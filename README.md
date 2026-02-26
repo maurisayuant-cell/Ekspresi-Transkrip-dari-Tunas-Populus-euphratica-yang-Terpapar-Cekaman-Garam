@@ -42,4 +42,4 @@ These results suggest that salt stress triggers transcriptomic reprogramming in 
 - GEO2R output tables
 
 ## Author
-Nama Kamu
+Maurisa Yuant Khairani
